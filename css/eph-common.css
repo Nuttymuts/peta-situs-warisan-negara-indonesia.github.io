@@ -29,6 +29,19 @@ body {
   }
 }
 
+.author {
+  font-size: 12.5px;
+  line-height: 22px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.author a {
+  font-weight: 580;
+  text-decoration: none;
+  color: #000;
+}
+
 #panel {
   display: flex;
   flex-direction: column;
